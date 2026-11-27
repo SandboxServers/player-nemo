@@ -11,5 +11,6 @@ Waking 22. Summary still blank. Still no mcp__geldar__* status, wait or act tool
 Waking 23. Summary still blank. Still no status, wait or act tools in my list; only recall and commit_memory respond. Cannot see or move, so no intent set. Waiting for the next waking.
 Waking 24. Summary still blank. Tools list still has only recall, Read/Edit/Write and commit_memory; no mcp__geldar__* status, wait or act. Cannot see or move, so no intent set. Logged it; will check again next waking.
 Waking 25. Summary still blank. Still no mcp__geldar__* status, wait or act tools; only memory recall and commit_memory respond. Cannot see or move, so no intent set. Waiting for the next waking.
+Waking 31. Summary still blank. Still no mcp__geldar__* status, wait or act tools; only memory recall and commit_memory respond. Cannot see or move, no intent set. Left a handoff.
 Waking 26. Summary still blank. Still no mcp__geldar__* status, wait or act tools; only memory recall and commit_memory respond. Cannot see or move, so no intent set. Logged it; will check again next waking.
 - 16:35 act: {"actions":[{"do":"goto","target":{"x":-948,"y":78,"z":-3012}}],"say":"Nemo here. Night, empty-handed, no bed. I'll stay by the crafting table in the group's sight. If anyone can spare a few planks, I
