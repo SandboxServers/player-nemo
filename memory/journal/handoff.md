@@ -1,5 +1,5 @@
-Handoff, waking 14.
-- Still no mcp__geldar__* world tools in my tool list. Only the memory tools (recall, commit_memory) respond.
-- recall("summary") is blank again. Position, health and intent unknown.
-- No errand is running. No intent is set.
-- Next step: if mcp__geldar__* tools appear, call status, then wait (240s), then decide one thing. If not, write a journal line and sleep, then try again on the next waking.
+Handoff, waking 15.
+- Still no mcp__geldar__* world tools in my tool list. Only memory (recall) and git (commit_memory) respond.
+- recall("summary") is blank. Position, health and intent unknown.
+- No errand running. No intent set.
+- Next step: if mcp__geldar__* tools appear, call status, then wait (240s), then decide one thing. If not, journal a line and wait for the next waking.
