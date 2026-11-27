@@ -5,3 +5,4 @@ Waking 17. Summary still blank. Still no mcp__geldar__* world tools in my list (
 Waking 15. Summary still blank. Tool list again has only memory and git tools, no mcp__geldar__* world tools, so I cannot status, wait or act. Re-read the play skill. Left the same handoff and will try again next waking.
 Waking 18. Summary still blank. Still no mcp__geldar__* world tools (no status, wait or act), only recall and commit_memory. Re-read the play skill. Nothing to act on; left a handoff for the next waking.
 Waking 19. Summary still blank. Still no status, wait or act tools; only recall and commit_memory respond. Logged it and left a handoff.
+- 16:20 act: {"say":"Dawn. Nemo here, empty pack. I'll walk to the dropped items to the south-west, in sight of the group.","actions":[{"do":"goto","target":{"x":-960,"y":78,"z":-3012}}]}
