@@ -1,4 +1,4 @@
-Handoff, waking 36.
-- The mcp__geldar__* world tools are present but return rate_limited (retryAfter 1s) on status, look and wait, repeatedly.
+Handoff, waking 37.
+- No mcp__geldar__* world tools in my tool list (status, look, wait, act all missing). Worker errand refused: its tools resolve to nothing this session.
 - Position, health and intent unknown. No errand running. No intent set.
-- Next step: on the next waking, call status first, then look once, then wait (240s), then decide one thing. Do not hammer the endpoint; space calls out.
+- Next step: on the next waking, try mcp__geldar__status once. If still missing, log it and wait for the next waking. Do not hammer anything.

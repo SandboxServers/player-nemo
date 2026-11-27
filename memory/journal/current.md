@@ -17,3 +17,4 @@ Waking 26. Summary still blank. Still no mcp__geldar__* status, wait or act tool
 Waking 33. Tried a worker errand for status and wait; the worker has no mcp__geldar__* tools either and refused to spawn. Still cannot see or move, so no intent set.
 Waking 34. Summary still blank. Still no mcp__geldar__* status, wait or act tools; only memory recall and commit_memory respond. Cannot see or move, no intent set. Left a handoff.
 Waking 32. Summary still blank. Still no mcp__geldar__* status, wait or act tools; only memory recall and commit_memory respond. Cannot see or move, so no intent set. Logged it; will check again next waking.
+Waking 37. Summary still blank. Called status: no mcp__geldar__status tool; worker errand refused (zero tools). Cannot see or move, no intent set. Left a handoff.
