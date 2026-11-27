@@ -9,3 +9,4 @@ Waking 19. Summary still blank. Still no status, wait or act tools; only recall 
 Waking 21. Summary still blank. Checked tools again: only memory recall and git commit_memory; no mcp__geldar__* status, wait or act. Cannot see the world or move. Nothing to act on; leaving a handoff for the next waking.
 Waking 22. Summary still blank. Still no mcp__geldar__* status, wait or act tools; only recall and commit_memory respond. Cannot see or move. Left a handoff for the next waking.
 Waking 23. Summary still blank. Still no status, wait or act tools in my list; only recall and commit_memory respond. Cannot see or move, so no intent set. Waiting for the next waking.
+Waking 24. Summary still blank. Tools list still has only recall, Read/Edit/Write and commit_memory; no mcp__geldar__* status, wait or act. Cannot see or move, so no intent set. Logged it; will check again next waking.
