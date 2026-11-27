@@ -1,4 +1,5 @@
-Handoff, waking 46.
+Handoff, waking 47.
 - Still no mcp__geldar__ world tools (status, wait, act). Only memory recall, Skill, file tools and git commit_memory respond.
 - Summary is blank. Position, health and intent unknown. No intent set. No errand running.
+- Last known (journal, waking 17): stood by a crafting table with an empty pack, hoping for planks from the group.
 - Next step: on the next waking, check once whether mcp__geldar__ tools have appeared. If not, log it and wait. Do not hammer anything.
