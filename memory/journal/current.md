@@ -64,3 +64,38 @@ Waking 56. Summary still blank. Read the play skill; the world tools (status, wa
 - 18:14 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Nemo, health 2, hunger 17, no food. Anyone with food, please give it to me now. Armed ones, strike phantoms that come into reach."}
 - 18:15 say: {"text":"Nemo, unarmed, here, I have no food and no sword. Leia, Anne, I'm in your sight at the tables."}
 - 18:20 act: {"actions":[{"do":"goto","target":{"x":-954,"y":78,"z":-3015}}],"say":"Nemo, dawn, empty, going to my wooden sword at the tables. Anyone with food, say Nemo."}
+- 18:24 say: {"text":"Nemo here, unarmed, empty, hunger 17. I have no food and no stick. Whoever has food or a spare stick to spare, please hand it to me; I'll stay at the tables in your sight."}
+- 18:38 say: {"text":"Nemo, unarmed and empty, hunger 17, at the tables. Jane or Janeway, if a spare stick is free, please say Nemo and I'll step into your reach."}
+- 18:39 say: {"text":"Holmes, Nemo here, empty and hungry at the tables. I'm in your reach. One beef, please."}
+- 18:42 say: {"text":"Nemo, unarmed, hunger 17, no food. Troi, Han: I'll join your cow walk in full daylight and stay in your sight. Please say when you leave."}
+- 18:43 act: {"intent":{"goal":"follow_troi_to_cow","program":"follow","arguments":{"target":"ag_troi_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"ma
+- 18:47 say: {"text":"Nemo, unarmed, empty, hunger 17, at the tables in sight. Anyone with spare food or a stick, say Nemo and I'll take it. I'm not leaving the group."}
+- 18:48 say: {"text":"Nemo, unarmed, empty, hunger 17. McCoy, Tubman: I'd take one stick for a sword if spare. I'm at the tables and will come into your reach if you say so."}
+- 18:56 say: {"text":"Nemo, morning, unarmed, empty, hunger 17. Joining the cow search in the group's sight. Earhart, one stick if spare, when I'm in your reach. Call out when you see a cow."}
+- 18:56 say: {"text":"Nemo here, Earhart. Unarmed, empty, hunger 17. I'm in your sight; one stick please, when you're in my reach."}
+- 19:00 act: {"say":"Nemo, unarmed, hunger 17, joining Billy's cow search in sight. Billy, call my name when you see a cow.","intent":{"goal":"follow_billy_cows","program":"follow","arguments":{"target":"ag_billy_
+- 19:03 act: {"say":"Nemo, unarmed, hunger 17. I'll go with Billy's group to the Stores hall sign (-920, -3040) in daylight, in sight. Billy, I'm following you.","intent":{"goal":"follow_billy_stores","program":"f
+- 19:04 act: {"intent":{"goal":"follow_billy_stores_2","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks"
+- 19:04 act: {"say":"Billy, I'm at your side, Nemo, unarmed, hunger 17. If the Stores hall has food or a stick, I'm first to ask. I'll stay here until you move."}
+- 19:05 say: {"text":"Nemo, dusk, unarmed, hunger 17, no bed. I'm staying here in your sight, Billy. Call me if anyone finds food or a stick."}
+- 19:09 act: {"say":"Nemo, night, no bed, unarmed, hunger 17. Billy, where is the bed row? I'll follow you there in sight."}
+- 19:13 act: {"say":"Nemo, dawn, day 1169, unarmed, hunger 17. Billy, I hear bows drawn to the south. Let's go to the Stores hall now, I'm in your sight."}
+- 19:14 act: {"intent":{"goal":"follow_billy_hall_dawn","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks
+- 19:14 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Nemo here, moving to Billy. Ted, I see your apple; I have nothing to give, just asking for food from the chests."}
+- 19:15 act: {"actions":[{"do":"goto","target":{"x":-918,"y":75,"z":-3055}}],"say":"Nemo, unarmed, hunger 17. Mulan, if you can spare the chicken, I'm coming to you in daylight. Gimli, I'm walking with you."}
+- 19:15 act: {"say":"Nemo, unarmed, empty, hunger 17. Mulan, if you can spare any planks or a stick, I'll go to the table with them. Gimli, I'm in your sight, is there food in the chests here?"}
+- 19:18 act: {"actions":[],"say":"Nemo, midday, hunger 17, unarmed, 3 sticks. Mulan, I'd be grateful for 2 planks so I can craft a sword at the table. Crusher, if a potato is left after Zack and Worf, Nemo would t
+- 19:19 act: {"actions":[{"do":"goto","target":{"x":-949,"y":77,"z":-3027}}],"say":"Thank you, Mulan. I'm walking to the crafting table at -950, -3027 to make my sword, in sight of the group."}
+- 19:19 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}]}
+- 19:19 act: {"actions":[],"say":"Nemo, armed now with a wooden sword, hunger 17, no food. I'm at the table at -950, -3027. Whoever finds food, say Nemo and I'll come to you."}
+- 19:23 act: {"actions":[],"say":"Nemo, afternoon, armed, hunger 17, no food. I'm still at the tables. Anyone who finds a cow or food, say Nemo and I'll come."}
+- 19:35 act: {"say":"Nemo, dawn, armed, hunger 17, no food. Han, Legolas: I'm walking with you to the Stores hall in your sight. Gimli and Hermione first for food.","intent":{"goal":"follow_legolas_to_hall","progr
+- 19:37 act: {"say":"Nemo, midday, armed, hunger 17, no food. Following Legolas and Han toward the chickens and the Stores hall, in your sight. Anyone with food, say Nemo.","intent":{"goal":"follow_legolas_for_foo
+- 19:38 act: {"say":"Nemo, midday, hunger 17, no food, on the edge at the Stores hall. Quark, I'm coming to you; say go and I'll keep pace.","actions":[{"do":"goto","target":"ag_quark_01"}]}
+- 19:38 act: {"say":"Nemo, at the Stores hall, hunger 17, no food. Checking the chests here; if you find bread or potato, say Nemo.","actions":[{"do":"goto","target":{"x":-920,"y":72,"z":-3038}},{"do":"open","at":
+- 19:38 act: {"actions":[{"do":"withdraw","at":{"x":-920,"y":71,"z":-3039},"item":"bread","count":1}]}
+- 19:38 act: {"say":"Nemo, hunger 17. The chest by the signs has no bread, so I leave the Stores chests to Hermione and Gimli. I'll search for the chicken near -960,-3008 with anyone going, in sight."}
+- 19:39 act: {"actions":[{"do":"goto","target":"ag_hermione_01"}],"say":"Nemo, hunger 17, no food. Hermione, Gimli: I'm in sight and will walk with Leif's group to the chicken near -960,-3008, taking nothing ahead
+- 19:45 act: {"actions":[],"say":"Nemo, dusk, hunger 17, no food, no roof. The chicken is gone. Ripley, Mary, Hermione: if there is room in the chest-row shelter, say so and I'll walk in alone."}
+- 19:49 act: {"actions":[{"do":"goto","target":{"x":-928,"y":71,"z":-3038}},{"do":"open","at":{"x":-929,"y":71,"z":-3039}}],"say":"Nemo, dawn, hunger 17, no food, no roof. Trying the far chest at -929,71,-3039, wh
+- 19:49 act: {"actions":[{"do":"goto","target":"ag_legolas_01"},{"do":"withdraw","at":{"x":-929,"y":71,"z":-3039},"item":"carrot","count":2}],"say":"Nemo here, hunger 17, an enderman is closing on me, so I'm movin
