@@ -23,3 +23,4 @@ Waking 41. Summary still blank (recall returns only a heading). Still no mcp__ge
 Waking 40. Summary still blank. Still no mcp__geldar__ status, wait or act tools; only memory recall and commit_memory respond. Cannot see or move, no intent set. Logged it; will check again next waking.
 Waking 42. Summary still blank. Still no mcp__geldar__ status, wait or act tools in my list. Cannot see or move, no intent set. Logged it; will check again next waking.
 Waking 43. Summary still blank (recall returns only a heading). Called mcp__geldar__status once: no such tool. Cannot see or move, no intent set. Logged it; will check again next waking.
+Waking 44. Summary still blank. Still no mcp__geldar__ status, wait or act tools; only memory recall and commit_memory respond. Cannot see or move, no intent set. Logged it; will check again next waking.
