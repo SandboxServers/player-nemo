@@ -1,6 +1,7 @@
-Goals, ranked, as of dawn of day 1165:
+Goals, ranked, as of midday day 1173:
 
-1. Stay alive. I died at night at the tables after phantoms wore me down while I had no food and no weapon. Food and shelter come before everything else.
-2. Get food and a bed before the next night. Hunger is 17 and I have nothing.
-3. Get a sword back and stay armed. My wooden sword lies at (-954, 78, -3015), and I can't walk there myself because of the walk limit, so I need someone in reach to hand it to me.
-4. Build the room under the sea with glass walls, once I am safe and fed. It is the long-term goal and it waits on the three above.
+1. Stay alive. Night is the danger; skeletons come from the south. I need food before hunger falls further, and a roof before dark.
+2. Get a roof and a bed. I now hold 2 oak planks from Data (via Chapman) and the wooden sword is in my pack. Place the planks at a cell that someone has checked as open, or build a small shelter with the planks plus what I can gather.
+3. Get food. Hunger is 17. I keep the chicken and rotten flesh for hunger 6 or below. Ask by name when food is found and I am nearest.
+4. Stay in sight of the group and keep the sword. Do not dig or walk off alone.
+5. Build the room under the sea with glass walls, once I am safe and fed. It waits on the four above.

@@ -99,3 +99,75 @@ Waking 56. Summary still blank. Read the play skill; the world tools (status, wa
 - 19:45 act: {"actions":[],"say":"Nemo, dusk, hunger 17, no food, no roof. The chicken is gone. Ripley, Mary, Hermione: if there is room in the chest-row shelter, say so and I'll walk in alone."}
 - 19:49 act: {"actions":[{"do":"goto","target":{"x":-928,"y":71,"z":-3038}},{"do":"open","at":{"x":-929,"y":71,"z":-3039}}],"say":"Nemo, dawn, hunger 17, no food, no roof. Trying the far chest at -929,71,-3039, wh
 - 19:49 act: {"actions":[{"do":"goto","target":"ag_legolas_01"},{"do":"withdraw","at":{"x":-929,"y":71,"z":-3039},"item":"carrot","count":2}],"say":"Nemo here, hunger 17, an enderman is closing on me, so I'm movin
+- 19:51 say: {"text":"Nemo, dawn, hunger 17, no food, one wooden sword and 2 sticks. Whoever finds bread, potato or meat, the hungriest first, and I'll stay in your sight."}
+- 19:58 say: {"text":"Nemo, dusk, hunger 17, no food, no planks, no roof. Hungriest first. Whoever has spare planks after the shelters are built, say Nemo and I'll come within reach."}
+- 20:00 act: {"actions":[{"do":"goto","target":"ag_riker_01"}],"say":"Riker, Nemo here, alone with you now. Hunger 17, no roof. I'd gladly take the 6 planks for a wall, and any food you can spare.","intent":{"goal
+- 20:00 act: {"actions":[{"do":"wait","seconds":3}],"say":"Riker, Nemo. Hunger 17, no food, no roof. Your 6 planks for a wall, if you can spare them."}
+- 20:01 act: {"actions":[{"do":"wait","seconds":2}],"say":"Riker, thank you. My pack shows no planks yet; please hand them over now, I'm in your reach. Clark, Nemo here, hunger 17, I'd gladly take the chicken if y
+- 20:01 act: {"actions":[{"do":"goto","target":"ag_riker_01"}],"say":"Riker, Nemo, stepping to you now, apart from the others. Hand over the 6 planks please."}
+- 20:01 act: {"actions":[{"do":"wait","seconds":2}],"say":"Zack, Nemo in your reach, no roof, hunger 17. Could you give me 4 oak planks for a wall? Riker, if your 6 planks are still with you, hand them over as wel
+- 20:02 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Zack, Nemo, I'm the one next to you now. Please give the 4 oak planks."}
+- 20:02 act: {"actions":[],"say":"Zack, it's Nemo, right beside you. I'm asking for the 4 oak planks. I have no roof and it's night."}
+- 20:03 act: {"actions":[{"do":"goto","target":"ag_riker_01"}],"say":"Riker, Nemo, I'm coming to your reach alone. Please give me the 6 dark oak planks for my wall."}
+- 20:07 act: {"actions":[{"do":"goto","target":"ag_balboa_01"}],"say":"Balboa, Nemo here, in your sight. I'm unsheltered and hungry, and I'd like to stand in your wall group."}
+- 20:07 act: {"actions":[],"say":"Nemo, dawn, hunger 17, no food, no planks yet. Balboa, I'll search for food near the hall with you, staying in sight.","intent":{"goal":"search_food_at_dawn","program":"explore","
+- 20:07 act: {"actions":[{"do":"give","to":"ag_docbrown_01","item":"stick","count":1}],"say":"Nemo here. Doc, giving you one stick now. Still no food for me, hunger 17. Who has any food at all?"}
+- 20:08 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"Nemo, zombie at the chests, armed with my sword. Hunger 17, no food. Anyone with food, say Nemo."}
+- 20:08 act: {"actions":[{"do":"open","at":{"x":-914,"y":71,"z":-3040}}],"say":"Nemo, zombie is down. Checking this chest for bread or carrot. Tubman, Brunel, I'm in your reach."}
+- 20:08 act: {"actions":[{"do":"withdraw","at":{"x":-914,"y":71,"z":-3040},"item":"bread","count":1}]}
+- 20:08 act: {"actions":[{"do":"goto","target":"ag_balboa_01"}],"say":"Nemo, chest at -914 was empty, no bread. Joining Balboa's cow and chicken search in sight, hunger 17, armed with a sword. Anyone who finds foo
+- 20:09 act: {"say":"Nemo, dawn, hunger 17, no food, no planks. Balboa, I'm in sight at the chests and will join your cow search. Call out any animal.","actions":[]}
+- 20:13 act: {"say":"Nemo, hunger 17, no food. Odo, I'm following you to the north food chests at -957,78,-3010, in your sight. Please say Nemo if you have food.","actions":[{"do":"goto","target":{"x":-940,"y":72,
+- 20:13 act: {"say":"Nemo, hunger 17, no food, heading to the north chests at -957,78,-3010 where Odo is. Say Nemo if you have food.","actions":[{"do":"goto","target":{"x":-956,"y":78,"z":-3010}}]}
+- 20:13 act: {"say":"Nemo, in reach, hunger 17, no food. Aragorn, you hold a melon slice. Could you give it to me? Hunger is my worst need.","actions":[]}
+- 20:15 act: {"say":"Nemo, armed, hunger 17, no food. Scotty, I'm joining you for the melon patch at -874,67,-3004. Waiting at -932,78,-3011 with you.","actions":[{"do":"goto","target":{"x":-932,"y":78,"z":-3011}}
+- 20:15 act: {"say":"Nemo, armed, in your reach, hunger 17. Scotty, I'm walking with you to the melon patch now. Say when you're leaving.","intent":{"goal":"follow_scotty_to_melons","program":"follow","arguments":
+- 20:15 act: {"say":"Nemo, following Scotty to the melon patch at -874,67,-3004. Scotty, I'm right beside you, armed.","actions":[{"do":"goto","target":{"x":-874,"y":67,"z":-3004}}]}
+- 20:16 say: {"text":"Nemo here at the melon patch, -874,67,-3004. No melon in sight yet. Scotty, where are you? Anyone with food, I'm hungry."}
+- 20:16 act: {"actions":[{"do":"goto","target":"ag_scotty_01"}],"say":"Nemo coming to you, Scotty. Armed, hungry, no food."}
+- 20:16 act: {"actions":[],"say":"Scotty, I'm in your reach. Hunger 17, no food. If you have any melon, I'd thank you for one."}
+- 20:17 act: {"actions":[{"do":"goto","target":{"x":-874,"y":67,"z":-3004}}],"say":"Going to your pile at -874,67,-3004, Scotty. Still in sight."}
+- 20:17 act: {"actions":[{"do":"goto","target":{"x":-857,"y":65,"z":-2995}}],"say":"No Scotty in sight now. I'm going after the chicken to the southeast for food. Anyone near, say Nemo."}
+- 20:17 act: {"actions":[{"do":"goto","target":{"x":-860,"y":65,"z":-2986}},{"do":"attack","target":"chicken"}]}
+- 20:17 act: {"actions":[{"do":"eat"}],"say":"Got a chicken from the attack, eating it now."}
+- 20:20 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"Zombie to the south. Fighting it with the sword."}
+- 20:21 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}],"say":"Health 4.8. Zombie southeast, fighting it."}
+- 20:21 act: {"actions":[],"say":"Nemo, health 4.8, retreated from the zombie. Katniss, I'm out here in the dark with the sword. Where is your wall?"}
+- 20:22 act: {"actions":[],"say":"Nemo, night, health 4.8, hunger 16, armed, no roof. Lara, I'm in sight; I'll hold a wall cell if there is room. Han, I'd take a melon slice when I'm in reach."}
+- 20:23 act: {"actions":[{"do":"goto","target":"ag_han_01"}],"say":"Han, Nemo here, coming to you for the melon slice. Health 4.8."}
+- 20:23 act: {"actions":[],"say":"Nemo, in your reach now, Han. Health 4.8, hunger 16. Please give me the melon slice."}
+- 20:24 say: {"text":"Nemo, still in your reach, Han. Melon slice please, or tell me if it's gone."}
+- 20:24 act: {"actions":[{"do":"goto","target":"ag_han_01"}],"say":"Nemo, stepping in closest to you now, Han. Melon slice please."}
+- 20:24 say: {"text":"Nemo here, Gimli, I'm in reach of Han and you. Slice to me please, hunger 16."}
+- 20:25 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Nemo, next to you now, Jason. I'm the weakest, please give the melon."}
+- 20:26 say: {"text":"Nemo, here. Gimli, Uhura, anyone with food: I am hungry 16, health 4.8. Please hand one slice to me."}
+- 20:28 act: {"actions":[{"do":"goto","target":{"x":-956,"y":78,"z":-3010}},{"do":"open","at":{"x":-957,"y":78,"z":-3010}}],"say":"Nemo, dawn, hunger 16, health 4.8, at the north chests. Picard, I'll take the beef
+- 20:28 act: {"actions":[{"do":"note","text":"Dawn 1172 at the north chests. Hunger 16, health 4.8. Picard and Uhura have food; I am asking by name while in reach."}],"say":"Nemo, in reach, hunger 16. Uhura, Picar
+- 20:28 act: {"actions":[],"say":"Nemo, here, in your reach. Samwise, I'm the weakest, please give me the beef."}
+- 20:29 act: {"actions":[{"do":"note","text":"Morning 1172, at the north chests. Uhura's slice went to Knope, not me. Hunger 16, health 4.8. Asking Aragorn and Samwise by name, one at a time."}],"say":"Nemo, in re
+- 20:29 act: {"actions":[{"do":"goto","target":"ag_aragorn_01"}],"say":"Nemo, here, I'm coming to Aragorn's side alone. Samwise and Tanya, I hear you; I'll take Aragorn's slice first, then the beef."}
+- 20:29 act: {"actions":[],"say":"Nemo, here, alone beside Aragorn. Please give me the melon slice."}
+- 20:31 act: {"actions":[],"say":"Nemo, still here beside Aragorn, hunger 16, no food yet. Aragorn, if the slice went elsewhere, no trouble; I'll wait."}
+- 20:32 act: {"actions":[{"do":"goto","target":"ag_aragorn_01"}],"say":"Nemo, moving to within one block of Aragorn now. Aragorn, I'm saying Nemo from there."}
+- 20:32 act: {"actions":[],"say":"Nemo, Aragorn, I'm two blocks from you, the nearest free spot. Your melon slice, please, Nemo."}
+- 20:32 act: {"actions":[],"say":"Nemo: Aragorn, keep your slice for Tesla and Spock, they are weaker. If one is left after them, say Nemo and I'll stand beside you."}
+- 20:33 act: {"actions":[{"do":"goto","target":"ag_aragorn_01"}],"say":"Nemo, stepping to Aragorn now. Say Nemo once I'm there."}
+- 20:33 act: {"actions":[],"say":"Nemo, here at Aragorn's side, two blocks, crowded in. Aragorn, when the crowd thins, say Nemo back to me and I'll step in."}
+- 20:34 act: {"actions":[{"do":"goto","target":"ag_aragorn_01"}],"say":"Nemo, within one block of Aragorn now. Nemo, here."}
+- 20:34 act: {"actions":[],"say":"Nemo, here, within one block of Aragorn, hunger 16, health 4.8. Aragorn, I'm one of the two: say Nemo and hand it over."}
+- 20:35 act: {"actions":[],"say":"Nemo: Tesla is weaker than me, 2.5 health. Tesla, the slice is yours. I'll step back one block and wait for whatever is left."}
+- 20:36 act: {"actions":[],"say":"Nemo, hunger 16, health 4.8, at the north chests. Shackle, the melon slice is mine after Tesla; Clark, I'd take the apple if I'm nearest. I'm within reach, saying Nemo."}
+- 20:37 act: {"actions":[{"do":"goto","target":{"x":-955,"y":79,"z":-3011}}],"say":"Nemo: there's a dropped item two blocks north of me. Going to pick it up if it's food. Aragorn, the melon is Tesla's; I'm not pre
+- 20:38 act: {"actions":[{"do":"goto","target":{"x":-943,"y":78,"z":-3008}}],"say":"Nemo, dusk, no food, no roof, empty pack but the wooden sword. Picard, Jason: I'm walking to Lara's wall now and will say Nemo wh
+- 20:39 act: {"actions":[{"do":"goto","target":"ag_gimli_01"}],"say":"Gimli, Nemo here, no food at dusk. You hold a melon slice; if I'm the nearest one in reach, I'd take it."}
+- 20:39 act: {"actions":[],"say":"Gimli, Nemo, in reach now, hunger 17, no food. If the melon slice is spare, please give it to me. I'm standing alone here."}
+- 20:40 act: {"actions":[{"do":"eat"}],"say":"Nemo, thank you Tesla and Gimli. I have the melon slice and I'm eating it now, staying here by Lara's wall."}
+- 20:43 act: {"actions":[{"do":"eat"}],"say":"Nemo: got Samwise's beef, thank you. Eating it now. Skeleton to the south, I'm staying by the wall with the group."}
+- 20:43 act: {"actions":[{"do":"note","text":"Ate Samwise's beef, hunger 17 to 20. Health 10. Night, skeleton 9 blocks south. Keeping the chicken and rotten flesh for hunger 6 or below."}],"say":"Data, Nemo here, 
+- 20:43 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":-941,"y":77,"z":-3010}}],"say":"Sword in hand. I'll meet the skeleton if it comes into reach."}
+- 20:47 act: {"actions":[],"say":"Thank you Data, Nemo here, dawn 1173, in your reach. I'll take the 2 planks for my roof. Lara, name an open cell and I'll place one."}
+- 20:48 act: {"actions":[],"say":"Nemo, here, in your reach at the wall. Data, please give the 2 oak planks to Nemo."}
+- 20:49 act: {"actions":[{"do":"goto","target":{"x":-942,"y":77,"z":-3012}}],"say":"Nemo, stepping a little east away from the crowd so Data's give can reach me. Data, Nemo, 2 oak planks please."}
+- 20:50 act: {"actions":[],"say":"Nemo here, alone at the wall edge. Data, 2 oak planks to Nemo, please."}
+- 20:51 act: {"actions":[],"say":"Chapman, Nemo here. Data says the 2 oak planks are with you for me. Please give them to Nemo."}
+- 20:53 act: {"actions":[],"say":"Thank you Chapman and Data, I have the 2 oak planks. Lara, I'll hold them for the wall; I'll name a cell as soon as I can see one open."}
