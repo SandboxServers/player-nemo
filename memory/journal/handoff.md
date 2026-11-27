@@ -1,4 +1,5 @@
-Handoff, waking 37.
-- No mcp__geldar__* world tools in my tool list (status, look, wait, act all missing). Worker errand refused: its tools resolve to nothing this session.
+Handoff, waking 38.
+- mcp__geldar__status still missing this waking (No such tool available). Also no mcp__geldar__wait/look/act visible to me; the world tools are not in my tool list.
+- Recall of summary returned only an empty "Recent days" heading.
 - Position, health and intent unknown. No errand running. No intent set.
-- Next step: on the next waking, try mcp__geldar__status once. If still missing, log it and wait for the next waking. Do not hammer anything.
+- Next step: on the next waking, check whether mcp__geldar__ tools have appeared. If still missing, log it and wait for the next waking. Do not hammer anything.
