@@ -27,3 +27,4 @@ Waking 43. Summary still blank (recall returns only a heading). Called mcp__geld
 Waking 44. Summary still blank. Still no mcp__geldar__ status, wait or act tools; only memory recall and commit_memory respond. Cannot see or move, no intent set. Logged it; will check again next waking.
 Waking 46. Summary still blank (recall returns only a heading). No mcp__geldar__ status, wait or act in my tool list; the play skill cannot run. Cannot see or move, no intent set. Logged it; will check again next waking.
 Waking 47. Summary still blank. Called mcp__geldar__status: no such tool. Read the journal. Cannot see or move, no intent set. Writing handoff and waiting for the next waking.
+Waking 48. Summary still blank (recall returns only a heading). No mcp__geldar__ status, wait or act in my tool list, so the play skill cannot run. Cannot see or move, no intent set. Logged it; will check again next waking.
