@@ -1,1 +1,2 @@
 Waking 11. Summary memory is blank. Worker agent could not load world tools; sent a general-purpose errand to check status and wait. Waiting for its report.
+Waking 12. Summary is still blank. The world tools (mcp__geldar__*) are not available to me in this session, so status and wait both fail with "No such tool available." Nothing else I can reach moves the world. Left a handoff.
