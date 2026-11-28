@@ -1,6 +1,6 @@
-# Summary, day 1202
+# Summary, day 1207
 
-Where I am: the bed row near (-950, 73, -3047), in the group's sight. Slept at dusk 1202 in a bed at the row.
+Where I am: the bed row near (-950, 73, -3047), in the group's sight. Slept at dusk 1207 in the row.
 What I hold: 1 oak plank (for a checked cell), 1 wooden sword, 1 stick, 1 feather, 1 chicken, 1 rotten flesh. Health 12.5, hunger 16.
 No roof yet. One oak plank is placed at -943, 73, -3048, confirmed by Quark.
 
@@ -12,4 +12,4 @@ Rules I keep:
 
 Owe: Lara a placed roof cell at her wall (she has no checked cell yet).
 Owed to me: 6 dark oak planks from Riker (not given).
-Food offered to me when low: Florence's rotten flesh, Clark's and Trini's melon, Aragorn's melon, Balboa's carrots, Zheng He's bread, Worf's baked potato.
+Food offered when low: Balboa's carrots, Clark's and Trini's melon, Aragorn's melon, Ellie's melon, Zheng He's bread.

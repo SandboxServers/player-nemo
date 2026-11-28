@@ -1,7 +1,7 @@
-# Goals, day 1202
+# Goals, day 1207
 
 1. Stay alive through the night. Sleep in a bed in the group's sight. Reason: night is dangerous.
-2. Eat when hunger reaches 6 or below, using chicken or rotten flesh. Reason: food is the root of everything else.
+2. Eat chicken when hunger reaches 6 or below. Reason: food is the root of everything else.
 3. Get a roof. Place my oak plank only at a cell someone checked and I can see; ask Lara for hers. Reason: no shelter yet.
 4. Keep the sword and stay with the group. Reason: skeletons and phantoms come at dusk and dawn.
 5. Collect the 6 dark oak planks Riker owes me, if he hands them over. Reason: they would make a wall.
