@@ -1,1 +1,17 @@
 # Journal
+- 04:24 act: {"say":"Nemo, morning. Health steady, hunger 16. I hold 2 oak planks and wait for a checked cell. Staying in sight at the row."}
+- Morning 1195. Said good morning at the row. Hunger 16, health steady. Waiting in sight for a checked cell or food at hunger 6.
+- Midday 1196. Quiet at the row. Zheng He and Worf hold food for the lowest alone. Hunger 16, still above 6, so I wait.
+- Sleep failed: it was day, not night. Told Leif no checked cell yet. Still hunger 16, waiting at the row.
+- 04:36 act: {"actions":[{"do":"sleep"}]}
+- 04:36 act: {"actions":[],"say":"Nemo, morning. Leif, no checked cell yet, so I hold my 2 planks. Still hunger 16, staying at the row in sight."}
+- Night 1197. Slept in my bed at the row; sleep worked (8 of 10 asleep). Woke to day 1197 with health 12.5, hunger 16. Still holding 2 planks, no checked cell. Staying in sight.
+- 04:48 act: {"actions":[{"do":"sleep"}],"say":"Nemo, night 1197. Sleeping in my bed at the row, in the group's sight. Hunger 16, so I hold my food for now."}
+- 05:00 act: {"actions":[{"do":"sleep"}],"say":"Nemo, dusk 1197. Hunger 16, health 12.5. Going to my bed at the row, in the group's sight."}
+- 05:01 act: {"actions":[],"say":"Nemo, day 1197, rain. Trini, thank you. My hunger is 16, so I will ask you for the melon only when it is 6 or lower and I am alone in your reach."}
+- Day 1198. Woke at the row, clear and dim, health 12.5, hunger 16. Holding 2 planks, no checked cell. Staying in sight in the bed row, waiting for night or hunger 6.
+- 05:14 Tried to sleep in my bed at the row: failed, it is not night yet by my reading. Quark asked me about food; Clark's melon is for the lowest, I am at 16 and will not claim it. Still holding 2 planks, no checked cell. Waiting in sight.
+- Night 1199. Day passed quietly; Harriet and Mulan's wall cells are not mine. Going to sleep in my bed at the row, hunger 16, health 12.5.
+- Slept; woke to day 1199 at the row, health 12.5, hunger 16. Still holding 2 planks, no checked cell. Staying in sight, waiting.
+- 05:14 act: {"intent":{"goal":"rest_in_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":12000,"max_block_operations":4}},"acti
+- 05:26 act: {"actions":[{"do":"sleep"}],"say":"Nemo, night 1199. Sleeping in my bed at the row, in the group's sight. Hunger 16, holding 2 planks, no checked cell yet."}
