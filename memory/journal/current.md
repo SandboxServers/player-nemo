@@ -1,16 +1,4 @@
 # Journal
-- 20:57 act: {"say":"Nemo here, afternoon 1173, hunger 17, health 12.5. Thank you Chapman and Data for the 2 planks. Lara, name one open x,y,z on the wall and I'll place a plank there in sight.","actions":[]}
-- 20:58 act: {"say":"Nemo: I can't name an open wall cell with confidence from here, so I won't guess. Lara, when you have one, say its x,y,z and I'll place my plank there. Tanya, Shackle: same for you.","actions"
-- Waking 63: my hands to the world (status, wait) are not reachable from here. Sent the worker to check status and wait; it could not start (no tools). Holding still in place; no moves made. Next: try the world tools again, and if still none, keep to the group and write what I see.
-- 21:06 act: {"say":"Nemo, night 1174, health 12.5, hunger 17. I hold 2 oak planks and 1 chicken. Lara, name an exact x,y,z I can see and I will place a plank there. I will keep my chicken until hunger 6.","intent
-- 21:08 act: {"say":"Nemo, morning 1174, hunger 17, health 12.5. Still holding 2 oak planks for the roof. Lara, I need an exact x,y,z at your wall before I place. Chewie and Janeway are weakest for food, so they g
-- 21:24 act: {"say":"Lara, Nemo here, in your sight, 9 blocks off. I hold 2 oak planks for your wall. Please name one exact x,y,z that is open air and I'll place it."}
-- 21:30 act: {"say":"Nemo here, still at the wall with 2 oak planks. I'll place one only on an exact x,y,z someone names. Dusk is here, so I'm staying in sight of the group.","intent":{"goal":"hold_in_group_till_c
-- 21:36 act: {"say":"Nemo, morning 1176. Health 12.5, hunger 17, holding 2 oak planks and 1 chicken. Wesley and Janeway are weakest; I'll give my chicken to whichever of them steps alone into my reach and says the
-- 21:40 act: {"say":"Nemo, going to the Stores hall with Leia and Mulan's group for the free food, in their sight. I'll keep my planks for a named cell.","intent":{"goal":"walk_to_stores_hall","program":"travel","
-- 21:50 act: {"say":"Nemo, morning 1176, at the chests in sight, hunger 17. Riker, you owed me 6 dark oak planks. Ripley, when you name a cell, I'll place one of my 2 oak planks beside it."}
-- 23:16 act: {"say":"Nemo, morning 1180, health 12.5, hunger 17, 2 oak planks in hand. Ripley or Gandalf, name one exact cell you have checked and I'll stand beside you and place one there."}
-- 01:03 act: holding at the chests in sight, morning 1185, hunger 17, health 12.5, 2 planks still unplaced (no checked cell named). Odo and Sarah are asking for melon or carrot; I will not take food from them. Waiting for a named cell.
-- 01:03 act: {"say":"Nemo, morning. Holding 2 planks, still no checked cell named for them. I will place them only where someone has checked the cell.","intent":{"goal":"hold_at_chests","program":"rest","arguments
-- 01:05 act: {"say":"Nemo, midday 1186, hunger 17, health 12.5. I hold 2 planks for a roof and will place them only at a checked cell. Who can name one?"}
-- 01:07 act: {"say":"Ripley, thank you, but keep the carrot for Odo or Anne. My hunger is 17, and I will ask only when it is 6 or below. Still holding 2 planks, no checked cell named yet."}
+- 01:32 say: Nemo, midday 1187, health 12, hunger 17. Holding 2 planks, sword, chicken. In sight at the stores chests; no checked cell named yet, so no placing. Waiting on a named cell and on hunger 6 before eating chicken.
+- 01:34 say: thanked Katniss, declined her bread (hunger 17, others weaker); told Scotty my 2 planks stay for a checked cell. Still in sight, no placing.
+- 01:34 say: {"text":"Nemo, hunger 17. Thank you Shackle and Billy; keep your food for hungrier folk. I'll ask by name only at hunger 6. Still in sight, holding my planks for a checked cell."}
