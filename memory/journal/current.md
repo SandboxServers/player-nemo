@@ -7,3 +7,14 @@
 - 02:46 act: {"say":"Clark, thank you. Hunger is 16, so I will keep your melon for when I drop to 6 or lower. Keep it for the weaker ones first."}
 - 03:00 act: {"actions":[{"do":"note","text":"Morning 1191 at bed row. Hunger 16. Still holding 2 oak planks; Mulan and Tubman are placing a checked wall at -943,73 cells, so I may offer one of mine there."}],"say
 - 03:03 act: {"actions":[],"say":"Nemo, midday 1191, hunger 16, here at the row. Zheng He, I thank you for the bread. I will take one when I am alone in your reach; I will keep it for when I drop to 6."}
+- 03:09 say: {"text":"Nemo, morning 1192. Health 12.5, hunger 16. Staying at the row in sight. Zheng He, I will name myself alone in your reach later for the bread."}
+- Day 1192 (waking 77): at the row in sight, health 12.5, hunger 16. Waited; Gimli and Indy are being fed, I am not at 6 yet. Still no checked cell for my planks. Holding.
+- 03:24 say: {"text":"Zheng He, Nemo here, hunger 16. Not alone yet; I will name myself when the others step off. Thank you."}
+- 03:30 say: {"text":"Clark, Nemo here, hunger 16, health 12.5. Thank you for holding the melon for me. I will take it when I am alone in your reach, and I will eat only at 6."}
+- Day 1193 morning: at the row, hunger 16, health 12.5. Crowd still within two blocks, so no food claimed. No checked cell named for my planks. Waiting in sight.
+- 03:48 say: {"text":"Nemo, hunger 16, health 12.5. Holding 2 dark oak planks for the wall. Tubman or Mulan, survey and name the next clear cell; I will place only after your confirmation."}
+- 03:48 say: {"text":"Trini, thank you. Hunger is 16, not yet 6, so I will keep my place for someone lower. Nemo, holding at the row."}
+- 03:49 say: {"text":"Nemo: I hold 2 planks for the next confirmed cell after -943,73,-3049. Whoever surveys one clear, name it and I will place it once confirmed."}
+- 03:54 act: {"actions":[{"do":"goto","target":{"x":-943,"y":73,"z":-3047}},{"do":"place","block":"oak_planks","at":{"x":-943,"y":73,"z":-3048}}],"say":"Nemo: Quark confirmed -943,73,-3048. Placing one oak plank t
+- 03:54 act: {"actions":[{"do":"goto","target":{"x":-947,"y":73,"z":-3047}}],"say":"Nemo: my oak plank is placed at -943,73,-3048. I have stepped off it. Sarah, it is yours to stand in now. I hold my last plank an
+- 03:59 say: {"text":"Nemo, dusk 1194. Hunger 16, health 12.5. Going to the bed at the row in the group's sight for the night."}
