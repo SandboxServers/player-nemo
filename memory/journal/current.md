@@ -10,3 +10,4 @@
 - 01:56 act: {"say":"Trini, Sattler, thank you both. Keep the melon for the next weakest; my hunger is 16, and I eat my chicken only at 6 or below. I stay in sight."}
 - 01:59 act: {"actions":[{"do":"note","text":"Day 1189 bed row, hunger 16, health 12.5. Crowd within 2 blocks, so I cannot take Bcrusher's bread alone yet. Staying in sight and waiting."}],"say":"Bcrusher, Odo, th
 - 01:59 act: {"actions":[],"intent":{"goal":"wait_in_sight_at_bed_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"limits":{"max_wor
+- 02:01 act: {"say":"Nemo here, hunger 16. Clark, I'll come alone to your reach for the melon once the crowd thins."}
