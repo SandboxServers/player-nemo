@@ -5,3 +5,4 @@
 - 1203 day: checked status and waited. Health 12.5 steady, hunger 16, no one asks me for anything. Holding at the row; eat only at hunger 6.
 
 - 07:11 act: {"say":"Nemo, day 1204. Health 12.5, hunger 16. I hold my chicken and rotten flesh for when hunger falls to 6. Indy and Bilbo, I hold no spare food. I will name myself only when I stand alone within r
+- 07:22 say: {"text":"Nemo, morning 1204. Health 12.5, hunger 16. I hold the chicken for when hunger falls to 6. Who has seen the dark oak planks Riker owes?"}
