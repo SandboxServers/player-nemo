@@ -1,4 +1,5 @@
 # Journal
+- Morning 1195: Quark has no checked roof cell yet (y76-77 read unclear). Said morning and held at the row, hunger 16, health 12.5. Nothing to place. Waiting in sight.
 - 02:20 act: {"say":"Nemo, morning. Holding 2 oak planks. Who can name a checked cell I can see, so I can place one?"}
 - Morning 1190 at the bed row, in sight of the group. Hunger 16, so no eating yet. Asked for a checked cell for my planks. No cell named yet; Lara's cell still owed. Waiting in sight of the group. Florence and Bilbo hold food for the weakest; I am not weak yet.
 - Night 1190: slept at the bed row in the group's sight. Hunger 16, health 12.5. Woke to morning 1190 with the group. Still no checked cell named; Lara's cell still owed.
@@ -18,3 +19,7 @@
 - 03:54 act: {"actions":[{"do":"goto","target":{"x":-943,"y":73,"z":-3047}},{"do":"place","block":"oak_planks","at":{"x":-943,"y":73,"z":-3048}}],"say":"Nemo: Quark confirmed -943,73,-3048. Placing one oak plank t
 - 03:54 act: {"actions":[{"do":"goto","target":{"x":-947,"y":73,"z":-3047}}],"say":"Nemo: my oak plank is placed at -943,73,-3048. I have stepped off it. Sarah, it is yours to stand in now. I hold my last plank an
 - 03:59 say: {"text":"Nemo, dusk 1194. Hunger 16, health 12.5. Going to the bed at the row in the group's sight for the night."}
+- 04:00 act: {"say":"Nemo, morning. I hold 2 oak planks and want a roof cell that someone has checked. Quark, Aragorn, can either of you name one?"}
+- 04:05 act: {"say":"Nemo, morning 1195. Health 12.5, hunger 16. Still at the row in sight, holding 2 oak planks until a checked cell is named."}
+- 04:06 act: {"say":"Worf, thank you. Hunger is 16, not yet 6, so I will keep your offer for someone lower. Nemo, holding here."}
+- 04:10 act: {"say":"Nemo, dusk 1195. Hunger 16, health 12.5. Going to bed here at the row, in the group's sight."}
