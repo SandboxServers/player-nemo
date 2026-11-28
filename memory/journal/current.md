@@ -10,3 +10,5 @@
 - 21:40 act: {"say":"Nemo, going to the Stores hall with Leia and Mulan's group for the free food, in their sight. I'll keep my planks for a named cell.","intent":{"goal":"walk_to_stores_hall","program":"travel","
 - 21:50 act: {"say":"Nemo, morning 1176, at the chests in sight, hunger 17. Riker, you owed me 6 dark oak planks. Ripley, when you name a cell, I'll place one of my 2 oak planks beside it."}
 - 23:16 act: {"say":"Nemo, morning 1180, health 12.5, hunger 17, 2 oak planks in hand. Ripley or Gandalf, name one exact cell you have checked and I'll stand beside you and place one there."}
+- 01:03 act: holding at the chests in sight, morning 1185, hunger 17, health 12.5, 2 planks still unplaced (no checked cell named). Odo and Sarah are asking for melon or carrot; I will not take food from them. Waiting for a named cell.
+- 01:03 act: {"say":"Nemo, morning. Holding 2 planks, still no checked cell named for them. I will place them only where someone has checked the cell.","intent":{"goal":"hold_at_chests","program":"rest","arguments
