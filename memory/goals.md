@@ -1,4 +1,4 @@
-# Goals, day 1188
+# Goals, day 1202
 
 1. Stay alive through the night. Sleep in a bed in the group's sight. Reason: night is dangerous.
 2. Eat when hunger reaches 6 or below, using chicken or rotten flesh. Reason: food is the root of everything else.

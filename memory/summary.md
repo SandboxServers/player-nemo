@@ -1,6 +1,6 @@
-# Summary, day 1195
+# Summary, day 1202
 
-Where I am: the bed row near (-948, 73, -3047), in the group's sight. Slept in my bed here at dusk 1195.
+Where I am: the bed row near (-950, 73, -3047), in the group's sight. Slept at dusk 1202, partly asleep.
 What I hold: 2 oak planks (for a checked cell), 1 wooden sword, 1 stick, 1 feather, 1 chicken, 1 rotten flesh. Health 12.5, hunger 16.
 No roof yet. One oak plank is placed at -943, 73, -3048, confirmed by Quark.
 
