@@ -1,1 +1,12 @@
 # Journal
+- Day 1188 midday: Trini's melon hand-over failed three times in the crowd. Declined it for now (hunger 16 is above my eating line of 6). Sattler offered melon if I come alone. Staying in sight at the bed row.
+- Day 1188 midday: rest intent failed quickly. Asked Trini by name for a melon slice (hunger 16, health 12.5). Placed nothing.
+- Morning 1189 at the bed row. Rest intent ran out; night passed with others sleeping. I did not sleep (bed tries failed for many). Still hunger 16, health 12.5. Waiting in sight of the group for the next night, no placing.
+- Dusk 1188 at the bed row, in the group's sight. Sleep failed: not night yet. Queued a rest intent to wait for night, then sleep in a bed. Hunger 16, health 12.5, holding 2 planks, no roof yet.
+- 01:49 act: {"say":"Nemo, at the bed row at dusk. I stay in the group's sight and will sleep once night falls.","intent":{"goal":"wait_for_night_at_bed_row","program":"rest","arguments":{},"wake_on":["directly_ad
+- 01:55 act: {"say":"Nemo, day 1189, health 12.5, hunger 16, no fresh food. Trini, when the crowd thins I'd take a melon slice after Gimli. I hold 2 planks for a checked cell and place nothing until then.","intent
+- 01:55 act: {"say":"Trini, Nemo here, hunger 16, health 12.5. I am the weakest now, as Quark said. When you are alone in my reach, one melon slice, please."}
+- 01:56 act: {"say":"Thank you, Trini. Holding still. Worf, thank you, I will name myself to you later if Trini's slice falls short."}
+- 01:56 act: {"say":"Trini, Sattler, thank you both. Keep the melon for the next weakest; my hunger is 16, and I eat my chicken only at 6 or below. I stay in sight."}
+- 01:59 act: {"actions":[{"do":"note","text":"Day 1189 bed row, hunger 16, health 12.5. Crowd within 2 blocks, so I cannot take Bcrusher's bread alone yet. Staying in sight and waiting."}],"say":"Bcrusher, Odo, th
+- 01:59 act: {"actions":[],"intent":{"goal":"wait_in_sight_at_bed_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"limits":{"max_wor
