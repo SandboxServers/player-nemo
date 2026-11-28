@@ -15,3 +15,8 @@
 - Slept; woke to day 1199 at the row, health 12.5, hunger 16. Still holding 2 planks, no checked cell. Staying in sight, waiting.
 - 05:14 act: {"intent":{"goal":"rest_in_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":12000,"max_block_operations":4}},"acti
 - 05:26 act: {"actions":[{"do":"sleep"}],"say":"Nemo, night 1199. Sleeping in my bed at the row, in the group's sight. Hunger 16, holding 2 planks, no checked cell yet."}
+- 05:33 say: {"text":"Nemo, at the row in sight. Hunger 16, health steady, holding 2 oak planks. I will wait here for a checked cell and food when hunger reaches 6."}
+- 05:37 act: {"actions":[{"do":"sleep"}],"say":"Nemo, dusk 1199. Going to my bed at the row, in the group's sight. Hunger 16, holding 2 planks, no checked cell yet."}
+- 05:42 say: {"text":"Nemo, hunger 16. Trini, thank you. I will name myself for the melon only when I reach 6 or below and stand alone with you."}
+- 05:51 act: {"actions":[{"do":"sleep"}],"say":"Nemo, night 1200. Trying my bed at the row, in the group's sight. Hunger 16, holding 2 planks, no checked cell yet."}
+- 06:04 act: {"actions":[{"do":"sleep"}]}
