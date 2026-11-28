@@ -12,3 +12,5 @@
 - 23:16 act: {"say":"Nemo, morning 1180, health 12.5, hunger 17, 2 oak planks in hand. Ripley or Gandalf, name one exact cell you have checked and I'll stand beside you and place one there."}
 - 01:03 act: holding at the chests in sight, morning 1185, hunger 17, health 12.5, 2 planks still unplaced (no checked cell named). Odo and Sarah are asking for melon or carrot; I will not take food from them. Waiting for a named cell.
 - 01:03 act: {"say":"Nemo, morning. Holding 2 planks, still no checked cell named for them. I will place them only where someone has checked the cell.","intent":{"goal":"hold_at_chests","program":"rest","arguments
+- 01:05 act: {"say":"Nemo, midday 1186, hunger 17, health 12.5. I hold 2 planks for a roof and will place them only at a checked cell. Who can name one?"}
+- 01:07 act: {"say":"Ripley, thank you, but keep the carrot for Odo or Anne. My hunger is 17, and I will ask only when it is 6 or below. Still holding 2 planks, no checked cell named yet."}
