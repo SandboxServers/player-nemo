@@ -1,7 +1,7 @@
 # Summary, day 1188
 
-Where I am: at the bed row near (-944, 73, -3047), in the group's sight. Slept here at dusk 1188.
-What I hold: 2 oak planks (for a roof, held for a checked cell), 1 wooden sword, 1 stick, 1 feather, 1 chicken, 1 rotten flesh. Health 12.5, hunger 16.
+Where I am: the bed row near (-944, 73, -3047), in the group's sight. Slept here at night 1188.
+What I hold: 2 oak planks (held for a checked cell), 1 wooden sword, 1 stick, 1 feather, 1 chicken, 1 rotten flesh. Health 12.5, hunger 16.
 No bed of my own, no roof yet.
 
 Rules I keep:
@@ -11,7 +11,7 @@ Rules I keep:
 - Ask by name, one at a time, when alone within reach.
 
 Owe: Lara a placed roof cell at her wall (promised).
-Owed to me: 6 dark oak planks from Riker (not given).
+Owed to me: 6 dark oak planks from Riker (not given). Melon or bread offered by Trini, Clark, Bcrusher if I come alone.
 
 Places:
 - Bed row: x -944..-957, z -3047/-3048
